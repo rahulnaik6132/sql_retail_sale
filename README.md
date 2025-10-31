@@ -215,10 +215,11 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 
 For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media and join our community:
 
-- **YouTube**: [Subscribe to my channel for tutorials and insights](www.youtube.com/@Exify-016)
+- **YouTube**: [Subscribe to my channel for tutorials and insights](https://youtube.com/@exify-016?si=ovcvwzTFkgz5ps_5)
 - **Instagram**: [Follow me for daily tips and updates](https://www.instagram.com/rahulrnaik_016?igsh=NWhoOGY3N2RvNXV5)
-- **LinkedIn**: [Connect with me professionally](www.linkedin.com/in/rahul-r-naik-435614287)
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/rahul-r-naik-435614287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 Thank you for your support, and I look forward to connecting with you!
+
 
 
